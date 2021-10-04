@@ -1,0 +1,22 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.canva{
+    border: 3px solid black;
+}
+
+h1{
+    border: 2px solid gray;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h2{
+    margin: 0;
+}
